@@ -13,7 +13,7 @@ A very simple discord bot written in go
 `./discord-bot` (for linux/mac os)<br>
 (If you are using Windows, you will need to run `discord-bot.exe` instead.)<br>
 7.) Invite the bot to your Discord server using the following link: https://discordapp.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot<br>
-Replace "YOUR_CLIENT_ID" with your actual bot client ID, which you can find on the Discord Developer Portal.<br>
+(Replace "YOUR_CLIENT_ID" with your actual bot client ID, which you can find on the Discord Developer Portal)<br>
 8.) Once the bot is invited to your server, you can use the commands you've implemented in the code by typing them into any channel that the bot has access to.<br>
 
 <br><br>
