@@ -18,6 +18,8 @@ A very simple discord bot written in go
 
 <br><br>
 
+**This Discord Bot was made for Educational Purposes as an Example**
+
 ## Usage / Commands 
 
 For example, you can use the "ping" command by typing "ping" into a channel, and the bot will respond with "Pong!" and the response time.<br>
